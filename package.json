@@ -1,0 +1,14 @@
+{
+  "name": "smart-ui",
+  "version": "0.0.1",
+  "description": "A perfect ui components library create by vue-next",
+  "main": "index.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "smart-ui"
+  ],
+  "author": "bingwen",
+  "license": "ISC"
+}
