@@ -12,12 +12,9 @@
     "moduleResolution": "node"
   },
   "include": [
-    "types/**/*",
-    "src/**/*"
+    "src/*"
   ],
   "exclude": [
-    "**/*.spec.ts",
-    "**/*.spec.js",
     "node_modules"
   ]
 }
